@@ -1,47 +1,91 @@
-⚡ Dork Engine
+# 🔍 Dork Engine
 
-A simple web-based tool to generate advanced search queries (Google dorks) for faster and smarter searching.
-
-This project was built to explore how search operators work and how they can be used in areas like cybersecurity and OSINT.
+> 🚀 Generate powerful Google dorks for smarter search, OSINT, and cybersecurity exploration.
 
 
 
-🚀 What it does
-Takes a keyword or domain as input
-Generates different useful search queries
-Lets you copy the query instantly
-Option to directly search it on Google
-🛠️ Tech Used
-HTML
-CSS
-JavaScript
-💻 How to use
-Enter any keyword (for example: example.com or login page)
-Click on Generate
-You’ll see multiple search queries
-Use:
-Copy → to copy the query
-Search → to open it in browser
-📌 Example
+<img width="1908" height="1038" alt="Screenshot 2026-04-17 134842" src="https://github.com/user-attachments/assets/52362b1e-30d4-4d1a-9475-e5fe61de459d" />
 
-If you enter:
+---
 
+## 🌟 Overview
+
+**Dork Engine** is a clean and simple web-based tool that helps you generate advanced search queries (Google dorks).
+It’s designed for **learning, cybersecurity exploration, and OSINT practices**.
+
+---
+
+## ⚡ Features
+
+* 🔎 Generate multiple Google dorks instantly
+* 📋 One-click copy functionality
+* 🌐 Direct search in Google
+* 🧠 Useful for cybersecurity & OSINT learning
+* 💡 Beginner-friendly interface
+
+---
+
+## 🛠️ Tech Stack
+
+* 🧱 HTML
+* 🎨 CSS
+* ⚙️ JavaScript
+
+---
+
+## 🧪 How It Works
+
+1. Enter a **keyword or domain** (e.g., `example.com`)
+2. Click **Generate**
+3. Get multiple search queries instantly
+4. Use:
+
+   * 📋 **Copy** → to copy query
+   * 🔍 **Search** → to open in browser
+
+---
+
+## 📌 Example
+
+**Input:**
+
+```
 example.com
+```
 
-You might get queries like:
+**Generated Queries:**
 
-site:example.com inurl:login  
-intitle:"admin login" example.com  
-filetype:pdf example.com  
-🎯 Why I made this
+```
+site:example.com inurl:login
+intitle:"admin login" example.com
+filetype:pdf example.com
+```
 
-I wanted to build something simple but useful while learning frontend development and basic cybersecurity concepts.
+---
 
-⚠️ Note
+## 🎯 Use Cases
 
-This tool is for learning and educational purposes only.
-Use it responsibly.
+* 🔐 Cybersecurity research
+* 🕵️ OSINT investigations
+* 📚 Learning Google search operators
+* ⚡ Faster information discovery
 
-👩‍💻 Author
+---
 
-Fatima Zaki
+## ⚠️ Disclaimer
+
+> This tool is for **educational purposes only**.
+> Use responsibly and ethically.
+
+---
+
+## 👩‍💻 Author
+
+**Fatima Zaki**
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
+
